@@ -5,9 +5,6 @@
 ##### Grid
 ##### Flex
 
-[<img src="src/images/tela-projeto-landing-page.gif">]
-
-[<img src="src/images/tela-landing-page.png">]
 
 
 ### Tecnologias Utilizadas
